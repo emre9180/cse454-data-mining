@@ -1,0 +1,19 @@
+Assignment 1 (Deadline: 26.11.2023 23:55)
+
+ Give the pseudo code of random forest (RF) classifier.
+	
+ What are the diffences between decision tree and RF?  Which method is likely to give better results than the other? Why? Explain your reason.
+	
+ What are the parameters of the technique?
+	
+ Compare the model with the other well known classifiers in terms of time complexity.
+	
+ Mention about improvement strategies in RF based on accuracy.
+	
+ Mention about improvement strategies in RF based on performance.
+	
+ Mention about improvement strategies in RF for online data.
+	
+ Give a technique for semi-supervised learning. Give pseudo code. Give details. (Other than the techniques in the literature.)
+	
+ Give a technique for transfer learning. Give pseudo code. Give details.
